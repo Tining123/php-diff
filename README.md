@@ -4,6 +4,8 @@ TextDiff for PHP
 ------------
 做了一个index，方便直接使用
 
+使用效果
+------------
 TextDiff is a simple library for text differences visualization. Based on Wordpress's Compare Revisions.
 
 ![DiffText Example](https://cloud.githubusercontent.com/assets/8868268/20669056/a098cd54-b57a-11e6-8501-b6a1834c9f76.png)
