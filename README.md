@@ -7,4 +7,6 @@ Installation/安装
 ------------
 git clone https://github.com/Tining123/php-diff.git
 
-
+Thanks/感谢
+------------
+https://github.com/qazd/text-diff
